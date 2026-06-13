@@ -98,5 +98,5 @@ if (!process.env.VERCEL) {
   });
 }
 
-// Export app for Vercel
-export default app;
+// Export server for Vercel
+export default server;
